@@ -11,11 +11,11 @@ An Android app that is made in kotlin that retrieves data from a url.
 
 ## Results
 # Screenshots
-![alt clone](resources/result1.png)
-![alt clone](resources/result2.png)
+![alt clone](resource/result1.png)
+![alt clone](resource/result2.png)
 
 #Video
-<img src='resources/resultvid.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='resource/resultvid.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## License
