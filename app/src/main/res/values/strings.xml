@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FetchRewardsTakeHome</string>
+    <string name="errorsign">ErrorSign</string>
+    <string name="something_went_wrong_while_loading_the_content">Something went wrong while loading the content</string>
+    <string name="retry"><u>Retry</u></string>
+    <string name="id">ID</string>
+    <string name="listid">ListID</string>
+    <string name="name">Name</string>
+</resources>
