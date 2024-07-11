@@ -18,13 +18,12 @@ An Android app that is made in kotlin that retrieves data from a url.
   -  Build reactive and data-driven user interfaces, enabling automatic updates of UI components when underlying data changes, while also managing lifecycle awareness to prevent memory leaks and crashes.
 - RecyclerView
   - Efficiently display large sets of data in a list or grid format, providing dynamic and smooth scrolling performance while optimizing memory usage by recycling views.
+- GSON
+  - Serialize Kotlin objects to JSON and vice versa, simplifying the handling of JSON data from APIs by mapping it directly to Kotlin objects without manual parsing.
 
 ## Results
 ### Screenshots
-<img src="resource/result1.png" alt="drawing" width="200"/>
-
-<img src="resource/result2.png" alt="drawing" width="200"/>
-
+<img src="resource/result1.png" alt="drawing" width="200"/> <img src="resource/result2.png" alt="drawing" width="200"/>
 
 ### Video
 <img src='resource/resultvid.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
