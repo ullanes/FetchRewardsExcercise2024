@@ -35,7 +35,7 @@ An Android app that is made in kotlin that retrieves data from a url.
 
 ## Results
 ### Screenshots
-<img src="resource/result1.png" alt="drawing" width="200"/> <img src="resource/result2.png" alt="drawing" width="200"/>
+<img src="resource/result1.png" alt="drawing" width="200"/> <img src="resource/result2.png" alt="drawing" width="200"/><img src="resource/result3.png" alt="drawing" width="200"/>
 
 ### Video
 <img src='resource/resultvid.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
