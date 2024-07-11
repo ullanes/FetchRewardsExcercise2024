@@ -7,7 +7,17 @@ An Android app that is made in kotlin that retrieves data from a url.
 - [X] Sort the results by "listId" and then by "name"
 - [X] Filter out any items where "name" is blank or null.
 
-## Libraries
+## Libraries in Use
+- Kotlin Coroutines
+  - Simplify asynchronous programming by providing a more concise and readable way to handle background tasks without blocking the main thread
+- Hilt
+  - Comprehensible dependency injection library, making it easier to manage and provide dependencies, improve code modularity, and enhance testability with less boilerplate code.
+- Retrofit
+  - Easily manage HTTP requests and responses, transforming them into Kotlin objects for smooth and efficient network operations.
+- LiveData
+  -  Build reactive and data-driven user interfaces, enabling automatic updates of UI components when underlying data changes, while also managing lifecycle awareness to prevent memory leaks and crashes.
+- RecyclerView
+  - Efficiently display large sets of data in a list or grid format, providing dynamic and smooth scrolling performance while optimizing memory usage by recycling views.
 
 ## Results
 ### Screenshots
@@ -17,7 +27,7 @@ An Android app that is made in kotlin that retrieves data from a url.
 
 
 ### Video
-<img src='resource/resultvid.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='resource/resultvid.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
 
 
 ## License
