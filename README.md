@@ -20,6 +20,18 @@ An Android app that is made in kotlin that retrieves data from a url.
   - Efficiently display large sets of data in a list or grid format, providing dynamic and smooth scrolling performance while optimizing memory usage by recycling views.
 - GSON
   - Serialize Kotlin objects to JSON and vice versa, simplifying the handling of JSON data from APIs by mapping it directly to Kotlin objects without manual parsing.
+## Instructions
+1) Clone Repository
+2) Open project in Android Studios
+3) Run app on any device on API level 24 or higher
+4) Wait for Emulator Run
+5) Scroll up and down with mouse to view clean and sorted list
+
+### Alt View
+1) Open device with API 24 or higher
+2) Turn on Airplane mode
+3) Run App
+
 
 ## Results
 ### Screenshots
